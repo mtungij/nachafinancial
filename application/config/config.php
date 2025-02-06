@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'https://nachafinancial.com/'; 
-// $config['base_url'] = 'http://localhost:8094/'; 
+// $config['base_url'] = 'http://localhost:8079/'; 
 
 /*
 |--------------------------------------------------------------------------

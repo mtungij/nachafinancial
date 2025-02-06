@@ -79,6 +79,7 @@ $db['default'] = array(
 	'username' => 'james',
 	'password' => 'phamasoft',
 	'database' => 'nachafinancial',
+	// 'database' => 'emid_credit',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
