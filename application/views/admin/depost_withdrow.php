@@ -469,10 +469,10 @@
                     <span>withdrawal Date</span>
                     <input type="date" readonly class="form-control" value="<?php echo $date; ?>" name="with_date" required>       
                     </div>
-                     <!-- <div class="col-md-6 col-6">
+                     <div class="col-md-6 col-6">
                     <span>code</span>
                     <input type="number" autocomplete="off" class="form-control" placeholder="Enter code" name="code" required>       
-                    </div> -->
+                    </div>
                    
             </div>
             </div>
