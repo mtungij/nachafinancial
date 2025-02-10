@@ -434,7 +434,7 @@
             <div class="modal-footer">
                  <?php if (@$today_dep->deposit_day == TRUE) {
                   ?>
-            <button type="submit" class="btn btn-primary" onclick="return confirm('Are you Sure To Deposit Again?')"><?php echo $this->lang->line("deposit_menu"); ?></button>
+            <button type="submit" class="btn btn-primary" onclick="return confirm('ulishafanya malipo tayari leo. Je, unahakikisha unataka kulipa tena?')"><?php echo $this->lang->line("deposit_menu"); ?></button>
               <?php }elseif(@$today_dep->deposit_day == FALSE){ ?>
                 <button type="submit" class="btn btn-primary"><?php echo $this->lang->line("deposit_menu"); ?></button>
                 <?php } ?>
